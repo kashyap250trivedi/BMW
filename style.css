@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Georgia', serif;
+    color: midnightblue;
+}
+
+h2 {
+    font-family: 'Verdana', sans-serif;
+    color: darkred;
+}
+
+h3 {
+    font-family: 'Courier New', monospace;
+    color: darkgreen;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    padding: 10px;
+}
+
+.fancy-text {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 18px;
+    color: darkslateblue;
+}
+
+img {
+    border-radius: 15px;
+    margin: 10px 0;
+    display: block;
+}
